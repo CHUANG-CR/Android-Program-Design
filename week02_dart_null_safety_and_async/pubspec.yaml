@@ -1,0 +1,10 @@
+name: week02_examples
+description: Dart null safety and asynchronous programming examples.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.2.0
